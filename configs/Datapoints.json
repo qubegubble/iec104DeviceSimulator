@@ -1,0 +1,3546 @@
+{
+  "Netzfrequenz": {
+    "IOAddress": 262176,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 32,
+    "Type IEC": 36,
+    "Unit / Einheit": "Hz"
+  },
+  "Effektivwert u1E / u1N": {
+    "IOAddress": 262177,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 33,
+    "Type IEC": 36,
+    "Unit / Einheit": "V"
+  },
+  "Effektivwert u2E / u2N": {
+    "IOAddress": 262178,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 34,
+    "Type IEC": 36,
+    "Unit / Einheit": "V"
+  },
+  "Effektivwert u3E / u3N": {
+    "IOAddress": 262179,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 35,
+    "Type IEC": 36,
+    "Unit / Einheit": "V"
+  },
+  "Effektivwert u0E / uNE": {
+    "IOAddress": 262180,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 36,
+    "Type IEC": 36,
+    "Unit / Einheit": "V"
+  },
+  "Effektivwert u12": {
+    "IOAddress": 262181,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 37,
+    "Type IEC": 36,
+    "Unit / Einheit": "V"
+  },
+  "Effektivwert u23": {
+    "IOAddress": 262182,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 38,
+    "Type IEC": 36,
+    "Unit / Einheit": "V"
+  },
+  "Effektivwert u31": {
+    "IOAddress": 262183,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 39,
+    "Type IEC": 36,
+    "Unit / Einheit": "V"
+  },
+  "Betrag von Phasor u1E / u1N": {
+    "IOAddress": 262184,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 40,
+    "Type IEC": 36,
+    "Unit / Einheit": "V"
+  },
+  "Phase von Phasor u1E / u1N": {
+    "IOAddress": 262185,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 41,
+    "Type IEC": 36,
+    "Unit / Einheit": "°"
+  },
+  "Betrag von Phasor u2E / u2N": {
+    "IOAddress": 262186,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 42,
+    "Type IEC": 36,
+    "Unit / Einheit": "V"
+  },
+  "Phase von Phasor u2E / u2N": {
+    "IOAddress": 262187,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 43,
+    "Type IEC": 36,
+    "Unit / Einheit": "°"
+  },
+  "Betrag von Phasor u3E / u3N": {
+    "IOAddress": 262188,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 44,
+    "Type IEC": 36,
+    "Unit / Einheit": "V"
+  },
+  "Phase von Phasor u3E / u3N": {
+    "IOAddress": 262189,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 45,
+    "Type IEC": 36,
+    "Unit / Einheit": "°"
+  },
+  "Betrag von Phasor u0E / uNE": {
+    "IOAddress": 262190,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 46,
+    "Type IEC": 36,
+    "Unit / Einheit": "V"
+  },
+  "Phase von Phasor u0E / uNE": {
+    "IOAddress": 262191,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 47,
+    "Type IEC": 36,
+    "Unit / Einheit": "°"
+  },
+  "Betrag von Phasor u12": {
+    "IOAddress": 262192,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 48,
+    "Type IEC": 36,
+    "Unit / Einheit": "V"
+  },
+  "Phase von Phasor u12": {
+    "IOAddress": 262193,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 49,
+    "Type IEC": 36,
+    "Unit / Einheit": "°"
+  },
+  "Betrag von Phasor u23": {
+    "IOAddress": 262194,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 50,
+    "Type IEC": 36,
+    "Unit / Einheit": "V"
+  },
+  "Phase von Phasor u23": {
+    "IOAddress": 262195,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 51,
+    "Type IEC": 36,
+    "Unit / Einheit": "°"
+  },
+  "Betrag von Phasor u31": {
+    "IOAddress": 262196,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 52,
+    "Type IEC": 36,
+    "Unit / Einheit": "V"
+  },
+  "Phase von Phasor u31": {
+    "IOAddress": 262197,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 53,
+    "Type IEC": 36,
+    "Unit / Einheit": "°"
+  },
+  "Betrag von Mitsystem": {
+    "IOAddress": 262232,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 88,
+    "Type IEC": 36,
+    "Unit / Einheit": "A"
+  },
+  "Phase von Mitsystem": {
+    "IOAddress": 262233,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 89,
+    "Type IEC": 36,
+    "Unit / Einheit": "°"
+  },
+  "Betrag von Gegensystem": {
+    "IOAddress": 262234,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 90,
+    "Type IEC": 36,
+    "Unit / Einheit": "A"
+  },
+  "Phase von Gegensystem": {
+    "IOAddress": 262235,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 91,
+    "Type IEC": 36,
+    "Unit / Einheit": "°"
+  },
+  "Betrag von Nullsystem": {
+    "IOAddress": 262236,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 92,
+    "Type IEC": 36,
+    "Unit / Einheit": "A"
+  },
+  "Phase von Nullsystem": {
+    "IOAddress": 262237,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 93,
+    "Type IEC": 36,
+    "Unit / Einheit": "°"
+  },
+  "THD von u1E / u1N [Prozent]": {
+    "IOAddress": 262206,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 62,
+    "Type IEC": 36,
+    "Unit / Einheit": "%"
+  },
+  "THD von u2E / u2N [Prozent]": {
+    "IOAddress": 262207,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 63,
+    "Type IEC": 36,
+    "Unit / Einheit": "%"
+  },
+  "THD von u3E / u3N [Prozent]": {
+    "IOAddress": 262208,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 64,
+    "Type IEC": 36,
+    "Unit / Einheit": "%"
+  },
+  "THD von u0E / uNE [Prozent]": {
+    "IOAddress": 262209,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 65,
+    "Type IEC": 36,
+    "Unit / Einheit": "%"
+  },
+  "THD von u12 [Prozent]": {
+    "IOAddress": 262210,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 66,
+    "Type IEC": 36,
+    "Unit / Einheit": "%"
+  },
+  "THD von u23 [Prozent]": {
+    "IOAddress": 262211,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 67,
+    "Type IEC": 36,
+    "Unit / Einheit": "%"
+  },
+  "THD von u31 [Prozent]": {
+    "IOAddress": 262212,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 68,
+    "Type IEC": 36,
+    "Unit / Einheit": "%"
+  },
+  "PWHD von u1E / u1N [Prozent]": {
+    "IOAddress": 262213,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 69,
+    "Type IEC": 36,
+    "Unit / Einheit": "%"
+  },
+  "PWHD von u2E / u2N [Prozent]": {
+    "IOAddress": 262214,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 70,
+    "Type IEC": 36,
+    "Unit / Einheit": "%"
+  },
+  "PWHD von u3E / u3N [Prozent]": {
+    "IOAddress": 262215,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 71,
+    "Type IEC": 36,
+    "Unit / Einheit": "%"
+  },
+  "PWHD von u0E / uNE [Prozent]": {
+    "IOAddress": 262216,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 72,
+    "Type IEC": 36,
+    "Unit / Einheit": "%"
+  },
+  "PWHD von u12 [Prozent]": {
+    "IOAddress": 262217,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 73,
+    "Type IEC": 36,
+    "Unit / Einheit": "%"
+  },
+  "PWHD von u23 [Prozent]": {
+    "IOAddress": 262218,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 74,
+    "Type IEC": 36,
+    "Unit / Einheit": "%"
+  },
+  "PWHD von u31 [Prozent]": {
+    "IOAddress": 262219,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 75,
+    "Type IEC": 36,
+    "Unit / Einheit": "%"
+  },
+  "Effektivwert Strom i1": {
+    "IOAddress": 262220,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 76,
+    "Type IEC": 36,
+    "Unit / Einheit": "A"
+  },
+  "Effektivwert Strom i2": {
+    "IOAddress": 262221,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 77,
+    "Type IEC": 36,
+    "Unit / Einheit": "A"
+  },
+  "Effektivwert Strom i3": {
+    "IOAddress": 262222,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 78,
+    "Type IEC": 36,
+    "Unit / Einheit": "A"
+  },
+  "Effektivwert Strom iE/N": {
+    "IOAddress": 262223,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 79,
+    "Type IEC": 36,
+    "Unit / Einheit": "A"
+  },
+  "Betrag von Phasor i1": {
+    "IOAddress": 262224,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 80,
+    "Type IEC": 36,
+    "Unit / Einheit": "A"
+  },
+  "Phase von Phasor i1": {
+    "IOAddress": 262225,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 81,
+    "Type IEC": 36,
+    "Unit / Einheit": "°"
+  },
+  "Betrag von Phasor i2": {
+    "IOAddress": 262226,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 82,
+    "Type IEC": 36,
+    "Unit / Einheit": "A"
+  },
+  "Phase von Phasor i2": {
+    "IOAddress": 262227,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 83,
+    "Type IEC": 36,
+    "Unit / Einheit": "°"
+  },
+  "Betrag von Phasor i3": {
+    "IOAddress": 262228,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 84,
+    "Type IEC": 36,
+    "Unit / Einheit": "A"
+  },
+  "Phase von Phasor i3": {
+    "IOAddress": 262229,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 85,
+    "Type IEC": 36,
+    "Unit / Einheit": "°"
+  },
+  "Betrag von Phasor iE/N": {
+    "IOAddress": 262230,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 86,
+    "Type IEC": 36,
+    "Unit / Einheit": "A"
+  },
+  "Phase von Phasor iE/N": {
+    "IOAddress": 262231,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 87,
+    "Type IEC": 36,
+    "Unit / Einheit": "°"
+  },
+  "Unsymmetrie Gegen-/Mitsystem": {
+    "IOAddress": 262238,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 94,
+    "Type IEC": 36,
+    "Unit / Einheit": "%"
+  },
+  "Unsymmetrie Null-/Mitsystem": {
+    "IOAddress": 262239,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 95,
+    "Type IEC": 36,
+    "Unit / Einheit": "%"
+  },
+  "THD von i1 [Prozent]": {
+    "IOAddress": 262240,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 96,
+    "Type IEC": 36,
+    "Unit / Einheit": "%"
+  },
+  "THD von i2 [Prozent]": {
+    "IOAddress": 262241,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 97,
+    "Type IEC": 36,
+    "Unit / Einheit": "%"
+  },
+  "THD von i3 [Prozent]": {
+    "IOAddress": 262242,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 98,
+    "Type IEC": 36,
+    "Unit / Einheit": "%"
+  },
+  "THD von iE/N [Prozent]": {
+    "IOAddress": 262243,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 99,
+    "Type IEC": 36,
+    "Unit / Einheit": "%"
+  },
+  "THC von i1": {
+    "IOAddress": 262244,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 100,
+    "Type IEC": 36,
+    "Unit / Einheit": "A"
+  },
+  "THC von i2": {
+    "IOAddress": 262245,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 101,
+    "Type IEC": 36,
+    "Unit / Einheit": "A"
+  },
+  "THC von i3": {
+    "IOAddress": 262246,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 102,
+    "Type IEC": 36,
+    "Unit / Einheit": "A"
+  },
+  "THC von iE/N": {
+    "IOAddress": 262247,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 103,
+    "Type IEC": 36,
+    "Unit / Einheit": "A"
+  },
+  "PWHD von i1 [Prozent]": {
+    "IOAddress": 262248,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 104,
+    "Type IEC": 36,
+    "Unit / Einheit": "%"
+  },
+  "PWHD von i2 [Prozent]": {
+    "IOAddress": 262249,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 105,
+    "Type IEC": 36,
+    "Unit / Einheit": "%"
+  },
+  "PWHD von i3 [Prozent]": {
+    "IOAddress": 262250,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 106,
+    "Type IEC": 36,
+    "Unit / Einheit": "%"
+  },
+  "PWHD von iE/N [Prozent]": {
+    "IOAddress": 262251,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 107,
+    "Type IEC": 36,
+    "Unit / Einheit": "%"
+  },
+  "PHC von i1": {
+    "IOAddress": 262252,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 108,
+    "Type IEC": 36,
+    "Unit / Einheit": "A"
+  },
+  "PHC von i2": {
+    "IOAddress": 262253,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 109,
+    "Type IEC": 36,
+    "Unit / Einheit": "A"
+  },
+  "PHC von i3": {
+    "IOAddress": 262254,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 110,
+    "Type IEC": 36,
+    "Unit / Einheit": "A"
+  },
+  "PHC von iE/N": {
+    "IOAddress": 262255,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 111,
+    "Type IEC": 36,
+    "Unit / Einheit": "A"
+  },
+  "K-Faktor von i1": {
+    "IOAddress": 262256,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 112,
+    "Type IEC": 36,
+    "Unit / Einheit": ""
+  },
+  "K-Faktor von i2": {
+    "IOAddress": 262257,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 113,
+    "Type IEC": 36,
+    "Unit / Einheit": ""
+  },
+  "K-Faktor von i3": {
+    "IOAddress": 262258,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 114,
+    "Type IEC": 36,
+    "Unit / Einheit": ""
+  },
+  "K-Faktor von iE/N": {
+    "IOAddress": 262259,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 115,
+    "Type IEC": 36,
+    "Unit / Einheit": ""
+  },
+  "Strang-Wirkleistung L1": {
+    "IOAddress": 262260,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 116,
+    "Type IEC": 36,
+    "Unit / Einheit": "W"
+  },
+  "Strang-Blindleistung L1": {
+    "IOAddress": 262261,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 117,
+    "Type IEC": 36,
+    "Unit / Einheit": "var"
+  },
+  "Strang-Scheinleistung L1": {
+    "IOAddress": 262262,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 118,
+    "Type IEC": 36,
+    "Unit / Einheit": "VA"
+  },
+  "Strang-Wirkleistung L2": {
+    "IOAddress": 262263,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 119,
+    "Type IEC": 36,
+    "Unit / Einheit": "W"
+  },
+  "Strang-Blindleistung L2": {
+    "IOAddress": 262264,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 120,
+    "Type IEC": 36,
+    "Unit / Einheit": "var"
+  },
+  "Strang-Scheinleistung L2": {
+    "IOAddress": 262265,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 121,
+    "Type IEC": 36,
+    "Unit / Einheit": "VA"
+  },
+  "Strang-Wirkleistung L3": {
+    "IOAddress": 262266,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 122,
+    "Type IEC": 36,
+    "Unit / Einheit": "W"
+  },
+  "Strang-Blindleistung L3": {
+    "IOAddress": 262267,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 123,
+    "Type IEC": 36,
+    "Unit / Einheit": "var"
+  },
+  "Strang-Scheinleistung L3": {
+    "IOAddress": 262268,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 124,
+    "Type IEC": 36,
+    "Unit / Einheit": "VA"
+  },
+  "Netz-Wirkleistung": {
+    "IOAddress": 262269,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 125,
+    "Type IEC": 36,
+    "Unit / Einheit": "W"
+  },
+  "Netz-Blindleistung": {
+    "IOAddress": 262270,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 126,
+    "Type IEC": 36,
+    "Unit / Einheit": "var"
+  },
+  "Netz-Scheinleistung": {
+    "IOAddress": 262271,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 127,
+    "Type IEC": 36,
+    "Unit / Einheit": "VA"
+  },
+  "Strang-Grundschwingungs-Wirkleistung L1": {
+    "IOAddress": 262272,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 128,
+    "Type IEC": 36,
+    "Unit / Einheit": "W"
+  },
+  "Strang-Grundschwingungs-Blindleistung L1": {
+    "IOAddress": 262273,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 129,
+    "Type IEC": 36,
+    "Unit / Einheit": "var"
+  },
+  "Strang-Grundschwingungs-Scheinleistung L1": {
+    "IOAddress": 262274,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 130,
+    "Type IEC": 36,
+    "Unit / Einheit": "VA"
+  },
+  "Phase Strang L1 [Grad]": {
+    "IOAddress": 262275,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 131,
+    "Type IEC": 36,
+    "Unit / Einheit": "°"
+  },
+  "Strang-Grundschwingungs-Wirkleistung L2": {
+    "IOAddress": 262276,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 132,
+    "Type IEC": 36,
+    "Unit / Einheit": "W"
+  },
+  "Strang-Grundschwingungs-Blindleistung L2": {
+    "IOAddress": 262277,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 133,
+    "Type IEC": 36,
+    "Unit / Einheit": "var"
+  },
+  "Strang-Grundschwingungs-Scheinleistung L2": {
+    "IOAddress": 262278,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 134,
+    "Type IEC": 36,
+    "Unit / Einheit": "VA"
+  },
+  "Phase Strang L2 [Grad]": {
+    "IOAddress": 262279,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 135,
+    "Type IEC": 36,
+    "Unit / Einheit": "°"
+  },
+  "Strang-Grundschwingungs-Wirkleistung L3": {
+    "IOAddress": 262280,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 136,
+    "Type IEC": 36,
+    "Unit / Einheit": "W"
+  },
+  "Strang-Grundschwingungs-Blindleistung L3": {
+    "IOAddress": 262281,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 137,
+    "Type IEC": 36,
+    "Unit / Einheit": "var"
+  },
+  "Strang-Grundschwingungs-Scheinleistung L3": {
+    "IOAddress": 262282,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 138,
+    "Type IEC": 36,
+    "Unit / Einheit": "VA"
+  },
+  "Phase Strang L3 [Grad]": {
+    "IOAddress": 262283,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 139,
+    "Type IEC": 36,
+    "Unit / Einheit": "°"
+  },
+  "Netz-Grundschwingungs-Wirkleistung": {
+    "IOAddress": 262284,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 140,
+    "Type IEC": 36,
+    "Unit / Einheit": "W"
+  },
+  "Grundschwingungs-Verschiebungs-Blindleistung": {
+    "IOAddress": 262285,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 141,
+    "Type IEC": 36,
+    "Unit / Einheit": "var"
+  },
+  "Betrag geometrische Grundschwingungs-Scheinleistung": {
+    "IOAddress": 262286,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 142,
+    "Type IEC": 36,
+    "Unit / Einheit": "VA"
+  },
+  "Phase geometrische Grundschwingungs-Scheinleistung [Grad]": {
+    "IOAddress": 262287,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 143,
+    "Type IEC": 36,
+    "Unit / Einheit": "°"
+  },
+  "Strang-Verzerrungsblindleistung L1": {
+    "IOAddress": 262288,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 144,
+    "Type IEC": 36,
+    "Unit / Einheit": "var"
+  },
+  "Strang-Verzerrungsblindleistung L2": {
+    "IOAddress": 262289,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 145,
+    "Type IEC": 36,
+    "Unit / Einheit": "var"
+  },
+  "Strang-Verzerrungsblindleistung L3": {
+    "IOAddress": 262290,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 146,
+    "Type IEC": 36,
+    "Unit / Einheit": "var"
+  },
+  "Netz-Verzerrungsblindleistung": {
+    "IOAddress": 262291,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 147,
+    "Type IEC": 36,
+    "Unit / Einheit": "var"
+  },
+  "Strang-Wirkfaktor L1": {
+    "IOAddress": 262292,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 148,
+    "Type IEC": 36,
+    "Unit / Einheit": ""
+  },
+  "Strang-Blindfaktor L1": {
+    "IOAddress": 262293,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 149,
+    "Type IEC": 36,
+    "Unit / Einheit": ""
+  },
+  "Strang-Wirkfaktor L2": {
+    "IOAddress": 262294,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 150,
+    "Type IEC": 36,
+    "Unit / Einheit": ""
+  },
+  "Strang-Blindfaktor L2": {
+    "IOAddress": 262295,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 151,
+    "Type IEC": 36,
+    "Unit / Einheit": ""
+  },
+  "Strang-Wirkfaktor L3": {
+    "IOAddress": 262296,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 152,
+    "Type IEC": 36,
+    "Unit / Einheit": ""
+  },
+  "Strang-Blindfaktor L3": {
+    "IOAddress": 262297,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 153,
+    "Type IEC": 36,
+    "Unit / Einheit": ""
+  },
+  "Netz-Wirkfaktor": {
+    "IOAddress": 262298,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 154,
+    "Type IEC": 36,
+    "Unit / Einheit": ""
+  },
+  "Netz-Blindfaktor": {
+    "IOAddress": 262299,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 155,
+    "Type IEC": 36,
+    "Unit / Einheit": ""
+  },
+  "cos phi L1": {
+    "IOAddress": 262300,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 156,
+    "Type IEC": 36,
+    "Unit / Einheit": ""
+  },
+  "cos phi L2": {
+    "IOAddress": 262301,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 157,
+    "Type IEC": 36,
+    "Unit / Einheit": ""
+  },
+  "cos phi L3": {
+    "IOAddress": 262302,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 158,
+    "Type IEC": 36,
+    "Unit / Einheit": ""
+  },
+  "cos phi Netz": {
+    "IOAddress": 262303,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 159,
+    "Type IEC": 36,
+    "Unit / Einheit": ""
+  },
+  "sin phi L1": {
+    "IOAddress": 262304,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 160,
+    "Type IEC": 36,
+    "Unit / Einheit": ""
+  },
+  "sin phi L2": {
+    "IOAddress": 262305,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 161,
+    "Type IEC": 36,
+    "Unit / Einheit": ""
+  },
+  "sin phi L3": {
+    "IOAddress": 262306,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 162,
+    "Type IEC": 36,
+    "Unit / Einheit": ""
+  },
+  "sin phi Netz": {
+    "IOAddress": 262307,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 163,
+    "Type IEC": 36,
+    "Unit / Einheit": ""
+  },
+  "cos phi L1 mit Vorzeichen des Verschiebungswinkels (kapazitiv : -, induktiv : +)": {
+    "IOAddress": 262308,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 164,
+    "Type IEC": 36,
+    "Unit / Einheit": ""
+  },
+  "cos phi L2 mit Vorzeichen des Verschiebungswinkels (kapazitiv : -, induktiv : +)": {
+    "IOAddress": 262309,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 165,
+    "Type IEC": 36,
+    "Unit / Einheit": ""
+  },
+  "cos phi L3 mit Vorzeichen des Verschiebungswinkels (kapazitiv : -, induktiv : +)": {
+    "IOAddress": 262310,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 166,
+    "Type IEC": 36,
+    "Unit / Einheit": ""
+  },
+  "cos phi Netz mit Vorzeichen des Verschiebungswinkels (kapazitiv : -, induktiv : +)": {
+    "IOAddress": 262311,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 167,
+    "Type IEC": 36,
+    "Unit / Einheit": ""
+  },
+  "Strang-COS phi-kap./ind.-Darstellung L1": {
+    "IOAddress": 262312,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 168,
+    "Type IEC": 36,
+    "Unit / Einheit": ""
+  },
+  "Strang-COS phi-kap./ind.-Darstellung L2": {
+    "IOAddress": 262313,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 169,
+    "Type IEC": 36,
+    "Unit / Einheit": ""
+  },
+  "Strang-COS phi-kap./ind.-Darstellung L3": {
+    "IOAddress": 262314,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 170,
+    "Type IEC": 36,
+    "Unit / Einheit": ""
+  },
+  "COS phi-kap./ind.-Darstellung Netz": {
+    "IOAddress": 262315,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 171,
+    "Type IEC": 36,
+    "Unit / Einheit": ""
+  },
+  "Zeitpunkt Rücksetzung": {
+    "IOAddress": 262316,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 172,
+    "Type IEC": 36,
+    "Unit / Einheit": ""
+  },
+  "Strang-Wirkenergie L1": {
+    "IOAddress": 262317,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 173,
+    "Type IEC": 36,
+    "Unit / Einheit": "kWh"
+  },
+  "Strang-Wirkenergie L2": {
+    "IOAddress": 262318,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 174,
+    "Type IEC": 36,
+    "Unit / Einheit": "kWh"
+  },
+  "Strang-Wirkenergie L3": {
+    "IOAddress": 262319,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 175,
+    "Type IEC": 36,
+    "Unit / Einheit": "kWh"
+  },
+  "Netz-Wirkenergie": {
+    "IOAddress": 262320,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 176,
+    "Type IEC": 36,
+    "Unit / Einheit": "kWh"
+  },
+  "Abgabe-Strang-Wirkenergie L1": {
+    "IOAddress": 262321,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 177,
+    "Type IEC": 36,
+    "Unit / Einheit": "kWh"
+  },
+  "Abgabe-Strang-Wirkenergie L2": {
+    "IOAddress": 262322,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 178,
+    "Type IEC": 36,
+    "Unit / Einheit": "kWh"
+  },
+  "Abgabe-Strang-Wirkenergie L3": {
+    "IOAddress": 262323,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 179,
+    "Type IEC": 36,
+    "Unit / Einheit": "kWh"
+  },
+  "Abgabe-Netz-Wirkenergie": {
+    "IOAddress": 262324,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 180,
+    "Type IEC": 36,
+    "Unit / Einheit": "kWh"
+  },
+  "Bezugs-Strang-Wirkenergie L1": {
+    "IOAddress": 262325,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 181,
+    "Type IEC": 36,
+    "Unit / Einheit": "kWh"
+  },
+  "Bezugs-Strang-Wirkenergie L2": {
+    "IOAddress": 262326,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 182,
+    "Type IEC": 36,
+    "Unit / Einheit": "kWh"
+  },
+  "Bezugs-Strang-Wirkenergie L3": {
+    "IOAddress": 262327,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 183,
+    "Type IEC": 36,
+    "Unit / Einheit": "kWh"
+  },
+  "Bezugs-Netz-Wirkenergie": {
+    "IOAddress": 262328,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 184,
+    "Type IEC": 36,
+    "Unit / Einheit": "kWh"
+  },
+  "Strang-Blindenergie L1": {
+    "IOAddress": 262329,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 185,
+    "Type IEC": 36,
+    "Unit / Einheit": "kvarh"
+  },
+  "Strang-Blindenergie L2": {
+    "IOAddress": 262330,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 186,
+    "Type IEC": 36,
+    "Unit / Einheit": "kvarh"
+  },
+  "Strang-Blindenergie L3": {
+    "IOAddress": 262331,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 187,
+    "Type IEC": 36,
+    "Unit / Einheit": "kvarh"
+  },
+  "Netz-Blindenergie": {
+    "IOAddress": 262332,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 188,
+    "Type IEC": 36,
+    "Unit / Einheit": "kvarh"
+  },
+  "Abgabe-Strang-Blindenergie (ind.) L1": {
+    "IOAddress": 262333,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 189,
+    "Type IEC": 36,
+    "Unit / Einheit": "kvarh"
+  },
+  "Abgabe-Strang-Blindenergie (ind.) L2": {
+    "IOAddress": 262334,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 190,
+    "Type IEC": 36,
+    "Unit / Einheit": "kvarh"
+  },
+  "Abgabe-Strang-Blindenergie (ind.) L3": {
+    "IOAddress": 262335,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 191,
+    "Type IEC": 36,
+    "Unit / Einheit": "kvarh"
+  },
+  "Abgabe-Netz-Blindenergie (ind.)": {
+    "IOAddress": 262336,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 192,
+    "Type IEC": 36,
+    "Unit / Einheit": "kvarh"
+  },
+  "'Bezugs'-Strang-Blindenergie (ind.) L1": {
+    "IOAddress": 262337,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 193,
+    "Type IEC": 36,
+    "Unit / Einheit": "kvarh"
+  },
+  "'Bezugs'-Strang-Blindenergie (ind.) L2": {
+    "IOAddress": 262338,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 194,
+    "Type IEC": 36,
+    "Unit / Einheit": "kvarh"
+  },
+  "'Bezugs'-Strang-Blindenergie (ind.) L3": {
+    "IOAddress": 262339,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 195,
+    "Type IEC": 36,
+    "Unit / Einheit": "kvarh"
+  },
+  "'Bezugs'-Netz-Blindenergie (ind.)": {
+    "IOAddress": 262340,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 196,
+    "Type IEC": 36,
+    "Unit / Einheit": "kvarh"
+  },
+  "Strang-Scheinenergie L1": {
+    "IOAddress": 262343,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 199,
+    "Type IEC": 36,
+    "Unit / Einheit": "kVAh"
+  },
+  "Strang-Scheinenergie L2": {
+    "IOAddress": 262344,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 200,
+    "Type IEC": 36,
+    "Unit / Einheit": "kVAh"
+  },
+  "Strang-Scheinenergie L3": {
+    "IOAddress": 262345,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 201,
+    "Type IEC": 36,
+    "Unit / Einheit": "kVAh"
+  },
+  "Netz-Scheinenergie": {
+    "IOAddress": 262346,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 202,
+    "Type IEC": 36,
+    "Unit / Einheit": "kVAh"
+  },
+  "Abgabe-Strang-Scheinenergie L1": {
+    "IOAddress": 262347,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 203,
+    "Type IEC": 36,
+    "Unit / Einheit": "kVAh"
+  },
+  "Abgabe-Strang-Scheinenergie L2": {
+    "IOAddress": 262348,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 204,
+    "Type IEC": 36,
+    "Unit / Einheit": "kVAh"
+  },
+  "Abgabe-Strang-Scheinenergie L3": {
+    "IOAddress": 262349,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 205,
+    "Type IEC": 36,
+    "Unit / Einheit": "kVAh"
+  },
+  "Abgabe-Netz-Scheinenergie": {
+    "IOAddress": 262350,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 206,
+    "Type IEC": 36,
+    "Unit / Einheit": "kVAh"
+  },
+  "Bezugs-Strang-Scheinenergie L1": {
+    "IOAddress": 262351,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 207,
+    "Type IEC": 36,
+    "Unit / Einheit": "kVAh"
+  },
+  "Bezugs-Strang-Scheinenergie L2": {
+    "IOAddress": 262352,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 208,
+    "Type IEC": 36,
+    "Unit / Einheit": "kVAh"
+  },
+  "Bezugs-Strang-Scheinenergie L3": {
+    "IOAddress": 262353,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 209,
+    "Type IEC": 36,
+    "Unit / Einheit": "kVAh"
+  },
+  "Bezugs-Netz-Scheinenergie": {
+    "IOAddress": 262354,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 210,
+    "Type IEC": 36,
+    "Unit / Einheit": "kVAh"
+  },
+  "Strang-Verzerrungs-Blindenergie L1": {
+    "IOAddress": 262355,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 211,
+    "Type IEC": 36,
+    "Unit / Einheit": "kvadh"
+  },
+  "Strang-Verzerrungs-Blindenergie L2": {
+    "IOAddress": 262356,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 212,
+    "Type IEC": 36,
+    "Unit / Einheit": "kvadh"
+  },
+  "Strang-Verzerrungs-Blindenergie L3": {
+    "IOAddress": 262357,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 213,
+    "Type IEC": 36,
+    "Unit / Einheit": "kvadh"
+  },
+  "Netz-Verzerrungs-Blindenergie": {
+    "IOAddress": 262358,
+    "HighByte": 4,
+    "MiddleByte": 0,
+    "LowByte": 214,
+    "Type IEC": 36,
+    "Unit / Einheit": "kvadh"
+  },
+  "Anzahl Oszilloskop Rekorder (Total)": {
+    "IOAddress": 1310721,
+    "HighByte": 20,
+    "MiddleByte": 0,
+    "LowByte": 1,
+    "Type IEC": 36,
+    "Unit / Einheit": ""
+  },
+  "Anzahl 10ms TRMS Rekorder (Total)": {
+    "IOAddress": 1310722,
+    "HighByte": 20,
+    "MiddleByte": 0,
+    "LowByte": 2,
+    "Type IEC": 36,
+    "Unit / Einheit": ""
+  },
+  "Anzahl PQ-Ereignisse (Total)": {
+    "IOAddress": 1310723,
+    "HighByte": 20,
+    "MiddleByte": 0,
+    "LowByte": 3,
+    "Type IEC": 36,
+    "Unit / Einheit": ""
+  },
+  "Anzahl Oszilloskop Rekorder (Tag)": {
+    "IOAddress": 1310977,
+    "HighByte": 20,
+    "MiddleByte": 1,
+    "LowByte": 1,
+    "Type IEC": 36,
+    "Unit / Einheit": ""
+  },
+  "Anzahl 10ms TRMS Rekorder (Tag)": {
+    "IOAddress": 1310978,
+    "HighByte": 20,
+    "MiddleByte": 1,
+    "LowByte": 2,
+    "Type IEC": 36,
+    "Unit / Einheit": ""
+  },
+  "Anzahl PQ-Ereignisse (Tag)": {
+    "IOAddress": 1310979,
+    "HighByte": 20,
+    "MiddleByte": 1,
+    "LowByte": 3,
+    "Type IEC": 36,
+    "Unit / Einheit": ""
+  },
+  "Anzahl Oszilloskop Rekorder (Woche)": {
+    "IOAddress": 1312513,
+    "HighByte": 20,
+    "MiddleByte": 7,
+    "LowByte": 1,
+    "Type IEC": 36,
+    "Unit / Einheit": ""
+  },
+  "Anzahl 10ms TRMS Rekorder (Woche)": {
+    "IOAddress": 1312514,
+    "HighByte": 20,
+    "MiddleByte": 7,
+    "LowByte": 2,
+    "Type IEC": 36,
+    "Unit / Einheit": ""
+  },
+  "Anzahl PQ-Ereignisse (Woche)": {
+    "IOAddress": 1312515,
+    "HighByte": 20,
+    "MiddleByte": 7,
+    "LowByte": 3,
+    "Type IEC": 36,
+    "Unit / Einheit": ""
+  },
+  "Anzahl Oszilloskop Rekorder (Monat)": {
+    "IOAddress": 1318401,
+    "HighByte": 20,
+    "MiddleByte": 30,
+    "LowByte": 1,
+    "Type IEC": 36,
+    "Unit / Einheit": ""
+  },
+  "Anzahl 10ms TRMS Rekorder (Monat)": {
+    "IOAddress": 1318402,
+    "HighByte": 20,
+    "MiddleByte": 30,
+    "LowByte": 2,
+    "Type IEC": 36,
+    "Unit / Einheit": ""
+  },
+  "Anzahl PQ-Ereignisse (Monat)": {
+    "IOAddress": 1318403,
+    "HighByte": 20,
+    "MiddleByte": 30,
+    "LowByte": 3,
+    "Type IEC": 36,
+    "Unit / Einheit": ""
+  },
+  "Binäreingang 1": {
+    "IOAddress": 1376513,
+    "HighByte": 21,
+    "MiddleByte": 1,
+    "LowByte": 1,
+    "Type IEC": 30,
+    "Unit / Einheit": ""
+  },
+  "Binäreingang 2": {
+    "IOAddress": 1376514,
+    "HighByte": 21,
+    "MiddleByte": 1,
+    "LowByte": 2,
+    "Type IEC": 30,
+    "Unit / Einheit": ""
+  },
+  "Slave 1 - Register 1": {
+    "IOAddress": 1442049,
+    "HighByte": 22,
+    "MiddleByte": 1,
+    "LowByte": 1,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 1 - Register 2": {
+    "IOAddress": 1442050,
+    "HighByte": 22,
+    "MiddleByte": 1,
+    "LowByte": 2,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 1 - Register 3": {
+    "IOAddress": 1442051,
+    "HighByte": 22,
+    "MiddleByte": 1,
+    "LowByte": 3,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 1 - Register 4": {
+    "IOAddress": 1442052,
+    "HighByte": 22,
+    "MiddleByte": 1,
+    "LowByte": 4,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 1 - Register 5": {
+    "IOAddress": 1442053,
+    "HighByte": 22,
+    "MiddleByte": 1,
+    "LowByte": 5,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 1 - Register 6": {
+    "IOAddress": 1442054,
+    "HighByte": 22,
+    "MiddleByte": 1,
+    "LowByte": 6,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 1 - Register 7": {
+    "IOAddress": 1442055,
+    "HighByte": 22,
+    "MiddleByte": 1,
+    "LowByte": 7,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 1 - Register 8": {
+    "IOAddress": 1442056,
+    "HighByte": 22,
+    "MiddleByte": 1,
+    "LowByte": 8,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 1 - Register 9": {
+    "IOAddress": 1442057,
+    "HighByte": 22,
+    "MiddleByte": 1,
+    "LowByte": 9,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 1 - Register 10": {
+    "IOAddress": 1442058,
+    "HighByte": 22,
+    "MiddleByte": 1,
+    "LowByte": 10,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 1 - Register 11": {
+    "IOAddress": 1442059,
+    "HighByte": 22,
+    "MiddleByte": 1,
+    "LowByte": 11,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 1 - Register 12": {
+    "IOAddress": 1442060,
+    "HighByte": 22,
+    "MiddleByte": 1,
+    "LowByte": 12,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 1 - Register 13": {
+    "IOAddress": 1442061,
+    "HighByte": 22,
+    "MiddleByte": 1,
+    "LowByte": 13,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 1 - Register 14": {
+    "IOAddress": 1442062,
+    "HighByte": 22,
+    "MiddleByte": 1,
+    "LowByte": 14,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 1 - Register 15": {
+    "IOAddress": 1442063,
+    "HighByte": 22,
+    "MiddleByte": 1,
+    "LowByte": 15,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 1 - Register 16": {
+    "IOAddress": 1442064,
+    "HighByte": 22,
+    "MiddleByte": 1,
+    "LowByte": 16,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 2 - Register 1": {
+    "IOAddress": 1442305,
+    "HighByte": 22,
+    "MiddleByte": 2,
+    "LowByte": 1,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 2 - Register 2": {
+    "IOAddress": 1442306,
+    "HighByte": 22,
+    "MiddleByte": 2,
+    "LowByte": 2,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 2 - Register 3": {
+    "IOAddress": 1442307,
+    "HighByte": 22,
+    "MiddleByte": 2,
+    "LowByte": 3,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 2 - Register 4": {
+    "IOAddress": 1442308,
+    "HighByte": 22,
+    "MiddleByte": 2,
+    "LowByte": 4,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 2 - Register 5": {
+    "IOAddress": 1442309,
+    "HighByte": 22,
+    "MiddleByte": 2,
+    "LowByte": 5,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 2 - Register 6": {
+    "IOAddress": 1442310,
+    "HighByte": 22,
+    "MiddleByte": 2,
+    "LowByte": 6,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 2 - Register 7": {
+    "IOAddress": 1442311,
+    "HighByte": 22,
+    "MiddleByte": 2,
+    "LowByte": 7,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 2 - Register 8": {
+    "IOAddress": 1442312,
+    "HighByte": 22,
+    "MiddleByte": 2,
+    "LowByte": 8,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 2 - Register 9": {
+    "IOAddress": 1442313,
+    "HighByte": 22,
+    "MiddleByte": 2,
+    "LowByte": 9,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 2 - Register 10": {
+    "IOAddress": 1442314,
+    "HighByte": 22,
+    "MiddleByte": 2,
+    "LowByte": 10,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 2 - Register 11": {
+    "IOAddress": 1442315,
+    "HighByte": 22,
+    "MiddleByte": 2,
+    "LowByte": 11,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 2 - Register 12": {
+    "IOAddress": 1442316,
+    "HighByte": 22,
+    "MiddleByte": 2,
+    "LowByte": 12,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 2 - Register 13": {
+    "IOAddress": 1442317,
+    "HighByte": 22,
+    "MiddleByte": 2,
+    "LowByte": 13,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 2 - Register 14": {
+    "IOAddress": 1442318,
+    "HighByte": 22,
+    "MiddleByte": 2,
+    "LowByte": 14,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 2 - Register 15": {
+    "IOAddress": 1442319,
+    "HighByte": 22,
+    "MiddleByte": 2,
+    "LowByte": 15,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 2 - Register 16": {
+    "IOAddress": 1442320,
+    "HighByte": 22,
+    "MiddleByte": 2,
+    "LowByte": 16,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 3 - Register 1": {
+    "IOAddress": 1442561,
+    "HighByte": 22,
+    "MiddleByte": 3,
+    "LowByte": 1,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 3 - Register 2": {
+    "IOAddress": 1442562,
+    "HighByte": 22,
+    "MiddleByte": 3,
+    "LowByte": 2,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 3 - Register 3": {
+    "IOAddress": 1442563,
+    "HighByte": 22,
+    "MiddleByte": 3,
+    "LowByte": 3,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 3 - Register 4": {
+    "IOAddress": 1442564,
+    "HighByte": 22,
+    "MiddleByte": 3,
+    "LowByte": 4,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 3 - Register 5": {
+    "IOAddress": 1442565,
+    "HighByte": 22,
+    "MiddleByte": 3,
+    "LowByte": 5,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 3 - Register 6": {
+    "IOAddress": 1442566,
+    "HighByte": 22,
+    "MiddleByte": 3,
+    "LowByte": 6,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 3 - Register 7": {
+    "IOAddress": 1442567,
+    "HighByte": 22,
+    "MiddleByte": 3,
+    "LowByte": 7,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 3 - Register 8": {
+    "IOAddress": 1442568,
+    "HighByte": 22,
+    "MiddleByte": 3,
+    "LowByte": 8,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 3 - Register 9": {
+    "IOAddress": 1442569,
+    "HighByte": 22,
+    "MiddleByte": 3,
+    "LowByte": 9,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 3 - Register 10": {
+    "IOAddress": 1442570,
+    "HighByte": 22,
+    "MiddleByte": 3,
+    "LowByte": 10,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 3 - Register 11": {
+    "IOAddress": 1442571,
+    "HighByte": 22,
+    "MiddleByte": 3,
+    "LowByte": 11,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 3 - Register 12": {
+    "IOAddress": 1442572,
+    "HighByte": 22,
+    "MiddleByte": 3,
+    "LowByte": 12,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 3 - Register 13": {
+    "IOAddress": 1442573,
+    "HighByte": 22,
+    "MiddleByte": 3,
+    "LowByte": 13,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 3 - Register 14": {
+    "IOAddress": 1442574,
+    "HighByte": 22,
+    "MiddleByte": 3,
+    "LowByte": 14,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 3 - Register 15": {
+    "IOAddress": 1442575,
+    "HighByte": 22,
+    "MiddleByte": 3,
+    "LowByte": 15,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 3 - Register 16": {
+    "IOAddress": 1442576,
+    "HighByte": 22,
+    "MiddleByte": 3,
+    "LowByte": 16,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 4 - Register 1": {
+    "IOAddress": 1442817,
+    "HighByte": 22,
+    "MiddleByte": 4,
+    "LowByte": 1,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 4 - Register 2": {
+    "IOAddress": 1442818,
+    "HighByte": 22,
+    "MiddleByte": 4,
+    "LowByte": 2,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 4 - Register 3": {
+    "IOAddress": 1442819,
+    "HighByte": 22,
+    "MiddleByte": 4,
+    "LowByte": 3,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 4 - Register 4": {
+    "IOAddress": 1442820,
+    "HighByte": 22,
+    "MiddleByte": 4,
+    "LowByte": 4,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 4 - Register 5": {
+    "IOAddress": 1442821,
+    "HighByte": 22,
+    "MiddleByte": 4,
+    "LowByte": 5,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 4 - Register 6": {
+    "IOAddress": 1442822,
+    "HighByte": 22,
+    "MiddleByte": 4,
+    "LowByte": 6,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 4 - Register 7": {
+    "IOAddress": 1442823,
+    "HighByte": 22,
+    "MiddleByte": 4,
+    "LowByte": 7,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 4 - Register 8": {
+    "IOAddress": 1442824,
+    "HighByte": 22,
+    "MiddleByte": 4,
+    "LowByte": 8,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 4 - Register 9": {
+    "IOAddress": 1442825,
+    "HighByte": 22,
+    "MiddleByte": 4,
+    "LowByte": 9,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 4 - Register 10": {
+    "IOAddress": 1442826,
+    "HighByte": 22,
+    "MiddleByte": 4,
+    "LowByte": 10,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 4 - Register 11": {
+    "IOAddress": 1442827,
+    "HighByte": 22,
+    "MiddleByte": 4,
+    "LowByte": 11,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 4 - Register 12": {
+    "IOAddress": 1442828,
+    "HighByte": 22,
+    "MiddleByte": 4,
+    "LowByte": 12,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 4 - Register 13": {
+    "IOAddress": 1442829,
+    "HighByte": 22,
+    "MiddleByte": 4,
+    "LowByte": 13,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 4 - Register 14": {
+    "IOAddress": 1442830,
+    "HighByte": 22,
+    "MiddleByte": 4,
+    "LowByte": 14,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 4 - Register 15": {
+    "IOAddress": 1442831,
+    "HighByte": 22,
+    "MiddleByte": 4,
+    "LowByte": 15,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 4 - Register 16": {
+    "IOAddress": 1442832,
+    "HighByte": 22,
+    "MiddleByte": 4,
+    "LowByte": 16,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 5 - Register 1": {
+    "IOAddress": 1443073,
+    "HighByte": 22,
+    "MiddleByte": 5,
+    "LowByte": 1,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 5 - Register 2": {
+    "IOAddress": 1443074,
+    "HighByte": 22,
+    "MiddleByte": 5,
+    "LowByte": 2,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 5 - Register 3": {
+    "IOAddress": 1443075,
+    "HighByte": 22,
+    "MiddleByte": 5,
+    "LowByte": 3,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 5 - Register 4": {
+    "IOAddress": 1443076,
+    "HighByte": 22,
+    "MiddleByte": 5,
+    "LowByte": 4,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 5 - Register 5": {
+    "IOAddress": 1443077,
+    "HighByte": 22,
+    "MiddleByte": 5,
+    "LowByte": 5,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 5 - Register 6": {
+    "IOAddress": 1443078,
+    "HighByte": 22,
+    "MiddleByte": 5,
+    "LowByte": 6,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 5 - Register 7": {
+    "IOAddress": 1443079,
+    "HighByte": 22,
+    "MiddleByte": 5,
+    "LowByte": 7,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 5 - Register 8": {
+    "IOAddress": 1443080,
+    "HighByte": 22,
+    "MiddleByte": 5,
+    "LowByte": 8,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 5 - Register 9": {
+    "IOAddress": 1443081,
+    "HighByte": 22,
+    "MiddleByte": 5,
+    "LowByte": 9,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 5 - Register 10": {
+    "IOAddress": 1443082,
+    "HighByte": 22,
+    "MiddleByte": 5,
+    "LowByte": 10,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 5 - Register 11": {
+    "IOAddress": 1443083,
+    "HighByte": 22,
+    "MiddleByte": 5,
+    "LowByte": 11,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 5 - Register 12": {
+    "IOAddress": 1443084,
+    "HighByte": 22,
+    "MiddleByte": 5,
+    "LowByte": 12,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 5 - Register 13": {
+    "IOAddress": 1443085,
+    "HighByte": 22,
+    "MiddleByte": 5,
+    "LowByte": 13,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 5 - Register 14": {
+    "IOAddress": 1443086,
+    "HighByte": 22,
+    "MiddleByte": 5,
+    "LowByte": 14,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 5 - Register 15": {
+    "IOAddress": 1443087,
+    "HighByte": 22,
+    "MiddleByte": 5,
+    "LowByte": 15,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 5 - Register 16": {
+    "IOAddress": 1443088,
+    "HighByte": 22,
+    "MiddleByte": 5,
+    "LowByte": 16,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 6 - Register 1": {
+    "IOAddress": 1443329,
+    "HighByte": 22,
+    "MiddleByte": 6,
+    "LowByte": 1,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 6 - Register 2": {
+    "IOAddress": 1443330,
+    "HighByte": 22,
+    "MiddleByte": 6,
+    "LowByte": 2,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 6 - Register 3": {
+    "IOAddress": 1443331,
+    "HighByte": 22,
+    "MiddleByte": 6,
+    "LowByte": 3,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 6 - Register 4": {
+    "IOAddress": 1443332,
+    "HighByte": 22,
+    "MiddleByte": 6,
+    "LowByte": 4,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 6 - Register 5": {
+    "IOAddress": 1443333,
+    "HighByte": 22,
+    "MiddleByte": 6,
+    "LowByte": 5,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 6 - Register 6": {
+    "IOAddress": 1443334,
+    "HighByte": 22,
+    "MiddleByte": 6,
+    "LowByte": 6,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 6 - Register 7": {
+    "IOAddress": 1443335,
+    "HighByte": 22,
+    "MiddleByte": 6,
+    "LowByte": 7,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 6 - Register 8": {
+    "IOAddress": 1443336,
+    "HighByte": 22,
+    "MiddleByte": 6,
+    "LowByte": 8,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 6 - Register 9": {
+    "IOAddress": 1443337,
+    "HighByte": 22,
+    "MiddleByte": 6,
+    "LowByte": 9,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 6 - Register 10": {
+    "IOAddress": 1443338,
+    "HighByte": 22,
+    "MiddleByte": 6,
+    "LowByte": 10,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 6 - Register 11": {
+    "IOAddress": 1443339,
+    "HighByte": 22,
+    "MiddleByte": 6,
+    "LowByte": 11,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 6 - Register 12": {
+    "IOAddress": 1443340,
+    "HighByte": 22,
+    "MiddleByte": 6,
+    "LowByte": 12,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 6 - Register 13": {
+    "IOAddress": 1443341,
+    "HighByte": 22,
+    "MiddleByte": 6,
+    "LowByte": 13,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 6 - Register 14": {
+    "IOAddress": 1443342,
+    "HighByte": 22,
+    "MiddleByte": 6,
+    "LowByte": 14,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 6 - Register 15": {
+    "IOAddress": 1443343,
+    "HighByte": 22,
+    "MiddleByte": 6,
+    "LowByte": 15,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 6 - Register 16": {
+    "IOAddress": 1443344,
+    "HighByte": 22,
+    "MiddleByte": 6,
+    "LowByte": 16,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 7 - Register 1": {
+    "IOAddress": 1443585,
+    "HighByte": 22,
+    "MiddleByte": 7,
+    "LowByte": 1,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 7 - Register 2": {
+    "IOAddress": 1443586,
+    "HighByte": 22,
+    "MiddleByte": 7,
+    "LowByte": 2,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 7 - Register 3": {
+    "IOAddress": 1443587,
+    "HighByte": 22,
+    "MiddleByte": 7,
+    "LowByte": 3,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 7 - Register 4": {
+    "IOAddress": 1443588,
+    "HighByte": 22,
+    "MiddleByte": 7,
+    "LowByte": 4,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 7 - Register 5": {
+    "IOAddress": 1443589,
+    "HighByte": 22,
+    "MiddleByte": 7,
+    "LowByte": 5,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 7 - Register 6": {
+    "IOAddress": 1443590,
+    "HighByte": 22,
+    "MiddleByte": 7,
+    "LowByte": 6,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 7 - Register 7": {
+    "IOAddress": 1443591,
+    "HighByte": 22,
+    "MiddleByte": 7,
+    "LowByte": 7,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 7 - Register 8": {
+    "IOAddress": 1443592,
+    "HighByte": 22,
+    "MiddleByte": 7,
+    "LowByte": 8,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 7 - Register 9": {
+    "IOAddress": 1443593,
+    "HighByte": 22,
+    "MiddleByte": 7,
+    "LowByte": 9,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 7 - Register 10": {
+    "IOAddress": 1443594,
+    "HighByte": 22,
+    "MiddleByte": 7,
+    "LowByte": 10,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 7 - Register 11": {
+    "IOAddress": 1443595,
+    "HighByte": 22,
+    "MiddleByte": 7,
+    "LowByte": 11,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 7 - Register 12": {
+    "IOAddress": 1443596,
+    "HighByte": 22,
+    "MiddleByte": 7,
+    "LowByte": 12,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 7 - Register 13": {
+    "IOAddress": 1443597,
+    "HighByte": 22,
+    "MiddleByte": 7,
+    "LowByte": 13,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 7 - Register 14": {
+    "IOAddress": 1443598,
+    "HighByte": 22,
+    "MiddleByte": 7,
+    "LowByte": 14,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 7 - Register 15": {
+    "IOAddress": 1443599,
+    "HighByte": 22,
+    "MiddleByte": 7,
+    "LowByte": 15,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 7 - Register 16": {
+    "IOAddress": 1443600,
+    "HighByte": 22,
+    "MiddleByte": 7,
+    "LowByte": 16,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 8 - Register 1": {
+    "IOAddress": 1443841,
+    "HighByte": 22,
+    "MiddleByte": 8,
+    "LowByte": 1,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 8 - Register 2": {
+    "IOAddress": 1443842,
+    "HighByte": 22,
+    "MiddleByte": 8,
+    "LowByte": 2,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 8 - Register 3": {
+    "IOAddress": 1443843,
+    "HighByte": 22,
+    "MiddleByte": 8,
+    "LowByte": 3,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 8 - Register 4": {
+    "IOAddress": 1443844,
+    "HighByte": 22,
+    "MiddleByte": 8,
+    "LowByte": 4,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 8 - Register 5": {
+    "IOAddress": 1443845,
+    "HighByte": 22,
+    "MiddleByte": 8,
+    "LowByte": 5,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 8 - Register 6": {
+    "IOAddress": 1443846,
+    "HighByte": 22,
+    "MiddleByte": 8,
+    "LowByte": 6,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 8 - Register 7": {
+    "IOAddress": 1443847,
+    "HighByte": 22,
+    "MiddleByte": 8,
+    "LowByte": 7,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 8 - Register 8": {
+    "IOAddress": 1443848,
+    "HighByte": 22,
+    "MiddleByte": 8,
+    "LowByte": 8,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 8 - Register 9": {
+    "IOAddress": 1443849,
+    "HighByte": 22,
+    "MiddleByte": 8,
+    "LowByte": 9,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 8 - Register 10": {
+    "IOAddress": 1443850,
+    "HighByte": 22,
+    "MiddleByte": 8,
+    "LowByte": 10,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 8 - Register 11": {
+    "IOAddress": 1443851,
+    "HighByte": 22,
+    "MiddleByte": 8,
+    "LowByte": 11,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 8 - Register 12": {
+    "IOAddress": 1443852,
+    "HighByte": 22,
+    "MiddleByte": 8,
+    "LowByte": 12,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 8 - Register 13": {
+    "IOAddress": 1443853,
+    "HighByte": 22,
+    "MiddleByte": 8,
+    "LowByte": 13,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 8 - Register 14": {
+    "IOAddress": 1443854,
+    "HighByte": 22,
+    "MiddleByte": 8,
+    "LowByte": 14,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 8 - Register 15": {
+    "IOAddress": 1443855,
+    "HighByte": 22,
+    "MiddleByte": 8,
+    "LowByte": 15,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 8 - Register 16": {
+    "IOAddress": 1443856,
+    "HighByte": 22,
+    "MiddleByte": 8,
+    "LowByte": 16,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 9 - Register 1": {
+    "IOAddress": 1444097,
+    "HighByte": 22,
+    "MiddleByte": 9,
+    "LowByte": 1,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 9 - Register 2": {
+    "IOAddress": 1444098,
+    "HighByte": 22,
+    "MiddleByte": 9,
+    "LowByte": 2,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 9 - Register 3": {
+    "IOAddress": 1444099,
+    "HighByte": 22,
+    "MiddleByte": 9,
+    "LowByte": 3,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 9 - Register 4": {
+    "IOAddress": 1444100,
+    "HighByte": 22,
+    "MiddleByte": 9,
+    "LowByte": 4,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 9 - Register 5": {
+    "IOAddress": 1444101,
+    "HighByte": 22,
+    "MiddleByte": 9,
+    "LowByte": 5,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 9 - Register 6": {
+    "IOAddress": 1444102,
+    "HighByte": 22,
+    "MiddleByte": 9,
+    "LowByte": 6,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 9 - Register 7": {
+    "IOAddress": 1444103,
+    "HighByte": 22,
+    "MiddleByte": 9,
+    "LowByte": 7,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 9 - Register 8": {
+    "IOAddress": 1444104,
+    "HighByte": 22,
+    "MiddleByte": 9,
+    "LowByte": 8,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 9 - Register 9": {
+    "IOAddress": 1444105,
+    "HighByte": 22,
+    "MiddleByte": 9,
+    "LowByte": 9,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 9 - Register 10": {
+    "IOAddress": 1444106,
+    "HighByte": 22,
+    "MiddleByte": 9,
+    "LowByte": 10,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 9 - Register 11": {
+    "IOAddress": 1444107,
+    "HighByte": 22,
+    "MiddleByte": 9,
+    "LowByte": 11,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 9 - Register 12": {
+    "IOAddress": 1444108,
+    "HighByte": 22,
+    "MiddleByte": 9,
+    "LowByte": 12,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 9 - Register 13": {
+    "IOAddress": 1444109,
+    "HighByte": 22,
+    "MiddleByte": 9,
+    "LowByte": 13,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 9 - Register 14": {
+    "IOAddress": 1444110,
+    "HighByte": 22,
+    "MiddleByte": 9,
+    "LowByte": 14,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 9 - Register 15": {
+    "IOAddress": 1444111,
+    "HighByte": 22,
+    "MiddleByte": 9,
+    "LowByte": 15,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 9 - Register 16": {
+    "IOAddress": 1444112,
+    "HighByte": 22,
+    "MiddleByte": 9,
+    "LowByte": 16,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 10 - Register 1": {
+    "IOAddress": 1444353,
+    "HighByte": 22,
+    "MiddleByte": 10,
+    "LowByte": 1,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 10 - Register 2": {
+    "IOAddress": 1444354,
+    "HighByte": 22,
+    "MiddleByte": 10,
+    "LowByte": 2,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 10 - Register 3": {
+    "IOAddress": 1444355,
+    "HighByte": 22,
+    "MiddleByte": 10,
+    "LowByte": 3,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 10 - Register 4": {
+    "IOAddress": 1444356,
+    "HighByte": 22,
+    "MiddleByte": 10,
+    "LowByte": 4,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 10 - Register 5": {
+    "IOAddress": 1444357,
+    "HighByte": 22,
+    "MiddleByte": 10,
+    "LowByte": 5,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 10 - Register 6": {
+    "IOAddress": 1444358,
+    "HighByte": 22,
+    "MiddleByte": 10,
+    "LowByte": 6,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 10 - Register 7": {
+    "IOAddress": 1444359,
+    "HighByte": 22,
+    "MiddleByte": 10,
+    "LowByte": 7,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 10 - Register 8": {
+    "IOAddress": 1444360,
+    "HighByte": 22,
+    "MiddleByte": 10,
+    "LowByte": 8,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 10 - Register 9": {
+    "IOAddress": 1444361,
+    "HighByte": 22,
+    "MiddleByte": 10,
+    "LowByte": 9,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 10 - Register 10": {
+    "IOAddress": 1444362,
+    "HighByte": 22,
+    "MiddleByte": 10,
+    "LowByte": 10,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 10 - Register 11": {
+    "IOAddress": 1444363,
+    "HighByte": 22,
+    "MiddleByte": 10,
+    "LowByte": 11,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 10 - Register 12": {
+    "IOAddress": 1444364,
+    "HighByte": 22,
+    "MiddleByte": 10,
+    "LowByte": 12,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 10 - Register 13": {
+    "IOAddress": 1444365,
+    "HighByte": 22,
+    "MiddleByte": 10,
+    "LowByte": 13,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 10 - Register 14": {
+    "IOAddress": 1444366,
+    "HighByte": 22,
+    "MiddleByte": 10,
+    "LowByte": 14,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 10 - Register 15": {
+    "IOAddress": 1444367,
+    "HighByte": 22,
+    "MiddleByte": 10,
+    "LowByte": 15,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 10 - Register 16": {
+    "IOAddress": 1444368,
+    "HighByte": 22,
+    "MiddleByte": 10,
+    "LowByte": 16,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 11 - Register 1": {
+    "IOAddress": 1444609,
+    "HighByte": 22,
+    "MiddleByte": 11,
+    "LowByte": 1,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 11 - Register 2": {
+    "IOAddress": 1444610,
+    "HighByte": 22,
+    "MiddleByte": 11,
+    "LowByte": 2,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 11 - Register 3": {
+    "IOAddress": 1444611,
+    "HighByte": 22,
+    "MiddleByte": 11,
+    "LowByte": 3,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 11 - Register 4": {
+    "IOAddress": 1444612,
+    "HighByte": 22,
+    "MiddleByte": 11,
+    "LowByte": 4,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 11 - Register 5": {
+    "IOAddress": 1444613,
+    "HighByte": 22,
+    "MiddleByte": 11,
+    "LowByte": 5,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 11 - Register 6": {
+    "IOAddress": 1444614,
+    "HighByte": 22,
+    "MiddleByte": 11,
+    "LowByte": 6,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 11 - Register 7": {
+    "IOAddress": 1444615,
+    "HighByte": 22,
+    "MiddleByte": 11,
+    "LowByte": 7,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 11 - Register 8": {
+    "IOAddress": 1444616,
+    "HighByte": 22,
+    "MiddleByte": 11,
+    "LowByte": 8,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 11 - Register 9": {
+    "IOAddress": 1444617,
+    "HighByte": 22,
+    "MiddleByte": 11,
+    "LowByte": 9,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 11 - Register 10": {
+    "IOAddress": 1444618,
+    "HighByte": 22,
+    "MiddleByte": 11,
+    "LowByte": 10,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 11 - Register 11": {
+    "IOAddress": 1444619,
+    "HighByte": 22,
+    "MiddleByte": 11,
+    "LowByte": 11,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 11 - Register 12": {
+    "IOAddress": 1444620,
+    "HighByte": 22,
+    "MiddleByte": 11,
+    "LowByte": 12,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 11 - Register 13": {
+    "IOAddress": 1444621,
+    "HighByte": 22,
+    "MiddleByte": 11,
+    "LowByte": 13,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 11 - Register 14": {
+    "IOAddress": 1444622,
+    "HighByte": 22,
+    "MiddleByte": 11,
+    "LowByte": 14,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 11 - Register 15": {
+    "IOAddress": 1444623,
+    "HighByte": 22,
+    "MiddleByte": 11,
+    "LowByte": 15,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 11 - Register 16": {
+    "IOAddress": 1444624,
+    "HighByte": 22,
+    "MiddleByte": 11,
+    "LowByte": 16,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 12 - Register 1": {
+    "IOAddress": 1444865,
+    "HighByte": 22,
+    "MiddleByte": 12,
+    "LowByte": 1,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 12 - Register 2": {
+    "IOAddress": 1444866,
+    "HighByte": 22,
+    "MiddleByte": 12,
+    "LowByte": 2,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 12 - Register 3": {
+    "IOAddress": 1444867,
+    "HighByte": 22,
+    "MiddleByte": 12,
+    "LowByte": 3,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 12 - Register 4": {
+    "IOAddress": 1444868,
+    "HighByte": 22,
+    "MiddleByte": 12,
+    "LowByte": 4,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 12 - Register 5": {
+    "IOAddress": 1444869,
+    "HighByte": 22,
+    "MiddleByte": 12,
+    "LowByte": 5,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 12 - Register 6": {
+    "IOAddress": 1444870,
+    "HighByte": 22,
+    "MiddleByte": 12,
+    "LowByte": 6,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 12 - Register 7": {
+    "IOAddress": 1444871,
+    "HighByte": 22,
+    "MiddleByte": 12,
+    "LowByte": 7,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 12 - Register 8": {
+    "IOAddress": 1444872,
+    "HighByte": 22,
+    "MiddleByte": 12,
+    "LowByte": 8,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 12 - Register 9": {
+    "IOAddress": 1444873,
+    "HighByte": 22,
+    "MiddleByte": 12,
+    "LowByte": 9,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 12 - Register 10": {
+    "IOAddress": 1444874,
+    "HighByte": 22,
+    "MiddleByte": 12,
+    "LowByte": 10,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 12 - Register 11": {
+    "IOAddress": 1444875,
+    "HighByte": 22,
+    "MiddleByte": 12,
+    "LowByte": 11,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 12 - Register 12": {
+    "IOAddress": 1444876,
+    "HighByte": 22,
+    "MiddleByte": 12,
+    "LowByte": 12,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 12 - Register 13": {
+    "IOAddress": 1444877,
+    "HighByte": 22,
+    "MiddleByte": 12,
+    "LowByte": 13,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 12 - Register 14": {
+    "IOAddress": 1444878,
+    "HighByte": 22,
+    "MiddleByte": 12,
+    "LowByte": 14,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 12 - Register 15": {
+    "IOAddress": 1444879,
+    "HighByte": 22,
+    "MiddleByte": 12,
+    "LowByte": 15,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 12 - Register 16": {
+    "IOAddress": 1444880,
+    "HighByte": 22,
+    "MiddleByte": 12,
+    "LowByte": 16,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 13 - Register 1": {
+    "IOAddress": 1445121,
+    "HighByte": 22,
+    "MiddleByte": 13,
+    "LowByte": 1,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 13 - Register 2": {
+    "IOAddress": 1445122,
+    "HighByte": 22,
+    "MiddleByte": 13,
+    "LowByte": 2,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 13 - Register 3": {
+    "IOAddress": 1445123,
+    "HighByte": 22,
+    "MiddleByte": 13,
+    "LowByte": 3,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 13 - Register 4": {
+    "IOAddress": 1445124,
+    "HighByte": 22,
+    "MiddleByte": 13,
+    "LowByte": 4,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 13 - Register 5": {
+    "IOAddress": 1445125,
+    "HighByte": 22,
+    "MiddleByte": 13,
+    "LowByte": 5,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 13 - Register 6": {
+    "IOAddress": 1445126,
+    "HighByte": 22,
+    "MiddleByte": 13,
+    "LowByte": 6,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 13 - Register 7": {
+    "IOAddress": 1445127,
+    "HighByte": 22,
+    "MiddleByte": 13,
+    "LowByte": 7,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 13 - Register 8": {
+    "IOAddress": 1445128,
+    "HighByte": 22,
+    "MiddleByte": 13,
+    "LowByte": 8,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 13 - Register 9": {
+    "IOAddress": 1445129,
+    "HighByte": 22,
+    "MiddleByte": 13,
+    "LowByte": 9,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 13 - Register 10": {
+    "IOAddress": 1445130,
+    "HighByte": 22,
+    "MiddleByte": 13,
+    "LowByte": 10,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 13 - Register 11": {
+    "IOAddress": 1445131,
+    "HighByte": 22,
+    "MiddleByte": 13,
+    "LowByte": 11,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 13 - Register 12": {
+    "IOAddress": 1445132,
+    "HighByte": 22,
+    "MiddleByte": 13,
+    "LowByte": 12,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 13 - Register 13": {
+    "IOAddress": 1445133,
+    "HighByte": 22,
+    "MiddleByte": 13,
+    "LowByte": 13,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 13 - Register 14": {
+    "IOAddress": 1445134,
+    "HighByte": 22,
+    "MiddleByte": 13,
+    "LowByte": 14,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 13 - Register 15": {
+    "IOAddress": 1445135,
+    "HighByte": 22,
+    "MiddleByte": 13,
+    "LowByte": 15,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 13 - Register 16": {
+    "IOAddress": 1445136,
+    "HighByte": 22,
+    "MiddleByte": 13,
+    "LowByte": 16,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 14 - Register 1": {
+    "IOAddress": 1445377,
+    "HighByte": 22,
+    "MiddleByte": 14,
+    "LowByte": 1,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 14 - Register 2": {
+    "IOAddress": 1445378,
+    "HighByte": 22,
+    "MiddleByte": 14,
+    "LowByte": 2,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 14 - Register 3": {
+    "IOAddress": 1445379,
+    "HighByte": 22,
+    "MiddleByte": 14,
+    "LowByte": 3,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 14 - Register 4": {
+    "IOAddress": 1445380,
+    "HighByte": 22,
+    "MiddleByte": 14,
+    "LowByte": 4,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 14 - Register 5": {
+    "IOAddress": 1445381,
+    "HighByte": 22,
+    "MiddleByte": 14,
+    "LowByte": 5,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 14 - Register 6": {
+    "IOAddress": 1445382,
+    "HighByte": 22,
+    "MiddleByte": 14,
+    "LowByte": 6,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 14 - Register 7": {
+    "IOAddress": 1445383,
+    "HighByte": 22,
+    "MiddleByte": 14,
+    "LowByte": 7,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 14 - Register 8": {
+    "IOAddress": 1445384,
+    "HighByte": 22,
+    "MiddleByte": 14,
+    "LowByte": 8,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 14 - Register 9": {
+    "IOAddress": 1445385,
+    "HighByte": 22,
+    "MiddleByte": 14,
+    "LowByte": 9,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 14 - Register 10": {
+    "IOAddress": 1445386,
+    "HighByte": 22,
+    "MiddleByte": 14,
+    "LowByte": 10,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 14 - Register 11": {
+    "IOAddress": 1445387,
+    "HighByte": 22,
+    "MiddleByte": 14,
+    "LowByte": 11,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 14 - Register 12": {
+    "IOAddress": 1445388,
+    "HighByte": 22,
+    "MiddleByte": 14,
+    "LowByte": 12,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 14 - Register 13": {
+    "IOAddress": 1445389,
+    "HighByte": 22,
+    "MiddleByte": 14,
+    "LowByte": 13,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 14 - Register 14": {
+    "IOAddress": 1445390,
+    "HighByte": 22,
+    "MiddleByte": 14,
+    "LowByte": 14,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 14 - Register 15": {
+    "IOAddress": 1445391,
+    "HighByte": 22,
+    "MiddleByte": 14,
+    "LowByte": 15,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 14 - Register 16": {
+    "IOAddress": 1445392,
+    "HighByte": 22,
+    "MiddleByte": 14,
+    "LowByte": 16,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 15 - Register 1": {
+    "IOAddress": 1445633,
+    "HighByte": 22,
+    "MiddleByte": 15,
+    "LowByte": 1,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 15 - Register 2": {
+    "IOAddress": 1445634,
+    "HighByte": 22,
+    "MiddleByte": 15,
+    "LowByte": 2,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 15 - Register 3": {
+    "IOAddress": 1445635,
+    "HighByte": 22,
+    "MiddleByte": 15,
+    "LowByte": 3,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 15 - Register 4": {
+    "IOAddress": 1445636,
+    "HighByte": 22,
+    "MiddleByte": 15,
+    "LowByte": 4,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 15 - Register 5": {
+    "IOAddress": 1445637,
+    "HighByte": 22,
+    "MiddleByte": 15,
+    "LowByte": 5,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 15 - Register 6": {
+    "IOAddress": 1445638,
+    "HighByte": 22,
+    "MiddleByte": 15,
+    "LowByte": 6,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 15 - Register 7": {
+    "IOAddress": 1445639,
+    "HighByte": 22,
+    "MiddleByte": 15,
+    "LowByte": 7,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 15 - Register 8": {
+    "IOAddress": 1445640,
+    "HighByte": 22,
+    "MiddleByte": 15,
+    "LowByte": 8,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 15 - Register 9": {
+    "IOAddress": 1445641,
+    "HighByte": 22,
+    "MiddleByte": 15,
+    "LowByte": 9,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 15 - Register 10": {
+    "IOAddress": 1445642,
+    "HighByte": 22,
+    "MiddleByte": 15,
+    "LowByte": 10,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 15 - Register 11": {
+    "IOAddress": 1445643,
+    "HighByte": 22,
+    "MiddleByte": 15,
+    "LowByte": 11,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 15 - Register 12": {
+    "IOAddress": 1445644,
+    "HighByte": 22,
+    "MiddleByte": 15,
+    "LowByte": 12,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 15 - Register 13": {
+    "IOAddress": 1445645,
+    "HighByte": 22,
+    "MiddleByte": 15,
+    "LowByte": 13,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 15 - Register 14": {
+    "IOAddress": 1445646,
+    "HighByte": 22,
+    "MiddleByte": 15,
+    "LowByte": 14,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 15 - Register 15": {
+    "IOAddress": 1445647,
+    "HighByte": 22,
+    "MiddleByte": 15,
+    "LowByte": 15,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 15 - Register 16": {
+    "IOAddress": 1445648,
+    "HighByte": 22,
+    "MiddleByte": 15,
+    "LowByte": 16,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 16 - Register 1": {
+    "IOAddress": 1445889,
+    "HighByte": 22,
+    "MiddleByte": 16,
+    "LowByte": 1,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 16 - Register 2": {
+    "IOAddress": 1445890,
+    "HighByte": 22,
+    "MiddleByte": 16,
+    "LowByte": 2,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 16 - Register 3": {
+    "IOAddress": 1445891,
+    "HighByte": 22,
+    "MiddleByte": 16,
+    "LowByte": 3,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 16 - Register 4": {
+    "IOAddress": 1445892,
+    "HighByte": 22,
+    "MiddleByte": 16,
+    "LowByte": 4,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 16 - Register 5": {
+    "IOAddress": 1445893,
+    "HighByte": 22,
+    "MiddleByte": 16,
+    "LowByte": 5,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 16 - Register 6": {
+    "IOAddress": 1445894,
+    "HighByte": 22,
+    "MiddleByte": 16,
+    "LowByte": 6,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 16 - Register 7": {
+    "IOAddress": 1445895,
+    "HighByte": 22,
+    "MiddleByte": 16,
+    "LowByte": 7,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 16 - Register 8": {
+    "IOAddress": 1445896,
+    "HighByte": 22,
+    "MiddleByte": 16,
+    "LowByte": 8,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 16 - Register 9": {
+    "IOAddress": 1445897,
+    "HighByte": 22,
+    "MiddleByte": 16,
+    "LowByte": 9,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 16 - Register 10": {
+    "IOAddress": 1445898,
+    "HighByte": 22,
+    "MiddleByte": 16,
+    "LowByte": 10,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 16 - Register 11": {
+    "IOAddress": 1445899,
+    "HighByte": 22,
+    "MiddleByte": 16,
+    "LowByte": 11,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 16 - Register 12": {
+    "IOAddress": 1445900,
+    "HighByte": 22,
+    "MiddleByte": 16,
+    "LowByte": 12,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 16 - Register 13": {
+    "IOAddress": 1445901,
+    "HighByte": 22,
+    "MiddleByte": 16,
+    "LowByte": 13,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 16 - Register 14": {
+    "IOAddress": 1445902,
+    "HighByte": 22,
+    "MiddleByte": 16,
+    "LowByte": 14,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 16 - Register 15": {
+    "IOAddress": 1445903,
+    "HighByte": 22,
+    "MiddleByte": 16,
+    "LowByte": 15,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  },
+  "Slave 16 - Register 16": {
+    "IOAddress": 1445904,
+    "HighByte": 22,
+    "MiddleByte": 16,
+    "LowByte": 16,
+    "Type IEC": 36,
+    "Unit / Einheit": "-"
+  }
+}

@@ -1,0 +1,12 @@
+[project]
+name = "iec104sim"
+version = "0.1.0"
+description = "Tiny IEC 60870-5-104 simulator for integration testing"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "c104"
+]
+
+[project.scripts]
+iec104-sim = "iec104sim.main:cli"
